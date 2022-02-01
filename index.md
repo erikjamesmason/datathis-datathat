@@ -23,4 +23,4 @@ _wait_, did you say **inappropriate comments**?
 
 darn tootin', flatfoot, move along or get on board.
 
-[Link](https://www.linkedin.com/in/erik-james-mason/) and <a href="https://www.linkedin.com/in/erik-james-mason/"><img src="https://user-images.githubusercontent.com/43789112/151951132-0b94ff89-e8d4-4754-ae7d-5ad023bd971b.jpg" alt="ME" height="200" width="200" style="border-radius:15px 15px 15px 15px" /></a>
+[Link](https://www.linkedin.com/in/erik-james-mason/) and <a href="https://www.linkedin.com/in/erik-james-mason/"><img src="https://user-images.githubusercontent.com/43789112/151951132-0b94ff89-e8d4-4754-ae7d-5ad023bd971b.jpg" alt="ME" height="auto" width="200" style="border-radius:50px 50px 50px 50px" /></a>
